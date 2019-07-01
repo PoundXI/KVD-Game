@@ -1,0 +1,43 @@
+music1.ogg : Heart of the Sea
+WindowMenu.cpp, WindowOption.cpp, WindowLevel.cpp
+http://www.soundjay.com/free-music/sounds/heart-of-the-sea.mp3
+
+music2.ogg : Barn Beat
+WindowPlay.cpp
+http://www.soundjay.com/free-music/sounds/barn-beat.mp3
+
+button-over.ogg : Button Sound 16
+Button.cpp
+http://www.soundjay.com/button/sounds/button-16.mp3
+
+dinosaur-die.ogg : Door 10 Close
+Dinosaur.cpp
+http://www.soundjay.com/door/sounds/door-10-close.mp3
+
+copter-place.ogg : Helicopter Fly Over 04
+ItemCopter.cpp
+http://www.soundjay.com/transportation/sounds/helicopter-fly-over-04.mp3
+
+car-place.ogg : Car Engine Ingition 2
+ItemCar.cpp
+http://www.soundjay.com/transportation/sounds/car-ignition-2.mp3
+
+horse-place.ogg : Briefcase Lock 1
+ItemRockingHorse.cpp
+http://www.soundjay.com/misc/sounds/briefcase-lock-1.mp3
+
+duck-attack.ogg : Smack Sound Effect
+ItemDuck.cpp //Disable
+http://www.soundjay.com/mechanical/sounds/smack-1.mp3
+
+item-drop.ogg : Magic Chime 02
+WindowPlay.cpp
+http://www.soundjay.com/misc/sounds/magic-chime-02.mp3
+
+cake-place.ogg : Wood Cracking Sound Effect 1
+ItemCake.cpp
+http://www.soundjay.com/nature/sounds/wood-cracking-1.mp3
+
+cake-attack.ogg : Button Sound 37
+ItemCake.cpp
+http://www.soundjay.com/button/sounds/button-37.mp3

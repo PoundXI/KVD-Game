@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="Button.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="985" topLine="33" />
+	</File>
+	<File name="Button.hpp" open="0" top="0" tabpos="5">
+		<Cursor position="84" topLine="0" />
+	</File>
+	<File name="CheckBox.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="360" topLine="0" />
+	</File>
+	<File name="CheckBox.hpp" open="0" top="0" tabpos="6">
+		<Cursor position="697" topLine="0" />
+	</File>
+	<File name="Conversion.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="721" topLine="0" />
+	</File>
+	<File name="Dinosaur.cpp" open="0" top="0" tabpos="9">
+		<Cursor position="2534" topLine="23" />
+	</File>
+	<File name="Dinosaur.hpp" open="0" top="0" tabpos="7">
+		<Cursor position="88" topLine="21" />
+	</File>
+	<File name="FileManager.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="2902" topLine="77" />
+	</File>
+	<File name="FileManager.hpp" open="0" top="0" tabpos="9">
+		<Cursor position="649" topLine="0" />
+	</File>
+	<File name="Game.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="6816" topLine="63" />
+	</File>
+	<File name="Game.hpp" open="0" top="0" tabpos="3">
+		<Cursor position="534" topLine="9" />
+	</File>
+	<File name="IVisibleObject.hpp" open="0" top="0" tabpos="11">
+		<Cursor position="506" topLine="0" />
+	</File>
+	<File name="IniFile.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="1748" topLine="59" />
+	</File>
+	<File name="IniFile.hpp" open="0" top="0" tabpos="6">
+		<Cursor position="838" topLine="0" />
+	</File>
+	<File name="ItemBomb.cpp" open="0" top="0" tabpos="9">
+		<Cursor position="199" topLine="0" />
+	</File>
+	<File name="ItemBomb.hpp" open="0" top="0" tabpos="10">
+		<Cursor position="569" topLine="2" />
+	</File>
+	<File name="ItemCake.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="1315" topLine="12" />
+	</File>
+	<File name="ItemCake.hpp" open="0" top="0" tabpos="0">
+		<Cursor position="88" topLine="0" />
+	</File>
+	<File name="ItemCar.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="1169" topLine="21" />
+	</File>
+	<File name="ItemCar.hpp" open="0" top="0" tabpos="5">
+		<Cursor position="1038" topLine="0" />
+	</File>
+	<File name="ItemCopter.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="436" topLine="2" />
+	</File>
+	<File name="ItemCopter.hpp" open="0" top="0" tabpos="8">
+		<Cursor position="92" topLine="5" />
+	</File>
+	<File name="ItemDuck.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="2580" topLine="88" />
+	</File>
+	<File name="ItemDuck.hpp" open="0" top="0" tabpos="6">
+		<Cursor position="1106" topLine="9" />
+	</File>
+	<File name="ItemHorse.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="469" topLine="0" />
+	</File>
+	<File name="ItemHorse.hpp" open="0" top="0" tabpos="3">
+		<Cursor position="746" topLine="5" />
+	</File>
+	<File name="Kid.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="1268" topLine="14" />
+	</File>
+	<File name="Kid.hpp" open="0" top="0" tabpos="2">
+		<Cursor position="78" topLine="0" />
+	</File>
+	<File name="Label.cpp" open="0" top="0" tabpos="10">
+		<Cursor position="171" topLine="0" />
+	</File>
+	<File name="Label.hpp" open="0" top="0" tabpos="6">
+		<Cursor position="82" topLine="0" />
+	</File>
+	<File name="ListBox.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="3253" topLine="54" />
+	</File>
+	<File name="ListBox.hpp" open="0" top="0" tabpos="7">
+		<Cursor position="86" topLine="0" />
+	</File>
+	<File name="ObjectManager.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="1781" topLine="53" />
+	</File>
+	<File name="ObjectManager.hpp" open="0" top="0" tabpos="9">
+		<Cursor position="393" topLine="0" />
+	</File>
+	<File name="PictureBox.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="74" topLine="0" />
+	</File>
+	<File name="PictureBox.hpp" open="0" top="0" tabpos="0">
+		<Cursor position="92" topLine="0" />
+	</File>
+	<File name="Progressbar.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="512" topLine="12" />
+	</File>
+	<File name="Progressbar.hpp" open="0" top="0" tabpos="3">
+		<Cursor position="94" topLine="0" />
+	</File>
+	<File name="SFMLMouseState.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="1217" topLine="7" />
+	</File>
+	<File name="SFMLMouseState.hpp" open="0" top="0" tabpos="7">
+		<Cursor position="483" topLine="0" />
+	</File>
+	<File name="SFMLSoundProvider.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="2886" topLine="76" />
+	</File>
+	<File name="SFMLSoundProvider.hpp" open="0" top="0" tabpos="0">
+		<Cursor position="710" topLine="0" />
+	</File>
+	<File name="Smoke.cpp" open="0" top="0" tabpos="13">
+		<Cursor position="786" topLine="0" />
+	</File>
+	<File name="Smoke.hpp" open="0" top="0" tabpos="14">
+		<Cursor position="82" topLine="0" />
+	</File>
+	<File name="SoundFileCache.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="298" topLine="0" />
+	</File>
+	<File name="TextBox.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="5108" topLine="142" />
+	</File>
+	<File name="TextBox.hpp" open="0" top="0" tabpos="5">
+		<Cursor position="86" topLine="0" />
+	</File>
+	<File name="Timeline.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="1878" topLine="51" />
+	</File>
+	<File name="Timeline.hpp" open="0" top="0" tabpos="0">
+		<Cursor position="531" topLine="0" />
+	</File>
+	<File name="Wallpaper.cpp" open="0" top="0" tabpos="17">
+		<Cursor position="161" topLine="0" />
+	</File>
+	<File name="Wallpaper.hpp" open="0" top="0" tabpos="16">
+		<Cursor position="90" topLine="0" />
+	</File>
+	<File name="WindowAbout.cpp" open="0" top="0" tabpos="16">
+		<Cursor position="552" topLine="0" />
+	</File>
+	<File name="WindowAbout.hpp" open="0" top="0" tabpos="0">
+		<Cursor position="199" topLine="0" />
+	</File>
+	<File name="WindowLevel.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="137" topLine="0" />
+	</File>
+	<File name="WindowMenu.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="145" topLine="0" />
+	</File>
+	<File name="WindowMenu.hpp" open="0" top="0" tabpos="0">
+		<Cursor position="264" topLine="0" />
+	</File>
+	<File name="WindowOption.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="137" topLine="0" />
+	</File>
+	<File name="WindowOption.hpp" open="0" top="0" tabpos="9">
+		<Cursor position="130" topLine="0" />
+	</File>
+	<File name="WindowPlay.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="161" topLine="655" />
+	</File>
+	<File name="WindowPlay.hpp" open="0" top="0" tabpos="4">
+		<Cursor position="915" topLine="15" />
+	</File>
+	<File name="WindowPlayer.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="4020" topLine="84" />
+	</File>
+	<File name="WindowPlayer.hpp" open="0" top="0" tabpos="4">
+		<Cursor position="335" topLine="0" />
+	</File>
+	<File name="WindowSplash.cpp" open="0" top="0" tabpos="15">
+		<Cursor position="667" topLine="0" />
+	</File>
+	<File name="WindowSplash.hpp" open="0" top="0" tabpos="16">
+		<Cursor position="152" topLine="0" />
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="55" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
